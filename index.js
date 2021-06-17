@@ -13,4 +13,13 @@ $(document).ready(function(){
             }
         ); 
     });
+
+    $("span#nextitem").on("click" , function(){
+        console.log("clicked");
+    });
+
+    $("span#preitem").on("click" , function(){
+        console.log("clicked");
+    });
+
 });
