@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slides{
+    height: 90vh;
+    width:95vw;
+    border: 1px solid rgb(139, 63, 63);
+    margin: 5px;
+    background: rgb(10, 190, 64);
+    flex-shrink: 0;
+}
+.slideholder{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100vw;
+    padding: 5px;
+}
