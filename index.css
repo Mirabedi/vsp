@@ -16,3 +16,13 @@
     width: 100vw;
     padding: 5px;
 }
+span#nextitem{
+    float: left;
+}
+span#preitem{
+    float: right;
+}
+div.controller{
+    padding: 20px;
+    margin: 20px;
+}
